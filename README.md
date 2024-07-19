@@ -1,1 +1,3 @@
-# PAN-GWES_testdata
+# Data Repository
+
+The compressed file contains a single folder called efcls_assemblies, which contains 100 *E. faecalis* assemblies. This is being used to test the following [repo](https://github.com/Sudaraka88/PAN-GWES). The complete dataset of 337 assemblies can be downloaded [here](https://uio-my.sharepoint.com/:u:/g/personal/sudarakm_uio_no/ET0J10TDy9VCiIS8ymLFYxYBrN0IqxsE83iJzUl-9_SWpQ?e=YpKoPg).
